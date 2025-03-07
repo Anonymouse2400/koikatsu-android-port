@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Init.unity
+    guid: 3adf0c00f2eee5b48ba86474bb357d68
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Logo.unity
+    guid: c1321856b44eeb449930d5d107a821c7
+  - enabled: 1
+    path: Assets/Illusion/Game/Scripts/Scene/Custom/CustomScene.unity
+    guid: f8b35a8a45515da4b8b116c9c81a02ba
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/NetworkCheckScene.unity
+    guid: 6f241dfd4d49fd341a7eed3ed18879bd
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Downloader.unity
+    guid: 2c95c3a59b1fa074aa803cf49043fd61
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Uploader.unity
+    guid: 0ec3d62d65a0405448c1f2fffb749a8c
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Exit.unity
+    guid: 5df096918056e244fa502d19f9b724d8
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Check.unity
+    guid: 5d989409397de4845a151b8e4fded031
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Title.unity
+    guid: 894f62ab08562e242989e00287857339
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Config.unity
+    guid: 4a0caa16fcd334343994e7497b8fd066
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Dummies/Dummy 10 Load.unity
+    guid: d364b16a6ce72ac42b5bf067ccc0e437
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Dummies/Dummy 11 Save.unity
+    guid: d6b0551668d63c24e81659496a02efe3
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Dummies/Dummy 12 ADV.unity
+    guid: 74ebee2355520374b99ffbeaf83396ce
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Dummies/Dummy 13 ClassRoomSelect.unity
+    guid: 7020c3078df82b7499c965b3e79f719c
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Dummies/Dummy 14 EntryPlayer.unity
+    guid: 59d8384c0a830dc428c3272ec5b2f57e
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Dummies/Dummy 15 NickNameSetting.unity
+    guid: 0a9a397a5e5a4744d902f136023c443e
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Dummies/Dummy 16 Action.unity
+    guid: e19b4face47bfd84083d84623e74f488
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/H.unity
+    guid: b2558fe6180e82d49ab147be16e81beb
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/HProc.unity
+    guid: afa873969f081634286a00708db51771
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/HPointMove.unity
+    guid: 649898d2d32113e47862773333904916
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Dummies/Dummy 20 HSceneResult.unity
+    guid: 8b7899c834d686d4cb88003d2f0cfc0f
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Dummies/Dummy 21 FixEventSceneEx.unity
+    guid: b5ee864e7712d2647a1b7414c212e0f0
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/FreeH.unity
+    guid: fd1f6822707a44045b78646d7148c990
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Dummy.unity
+    guid: 983f1c46f98179943a1de46385c23a3f
+  - enabled: 1
+    path: Assets/LiveStage/LiveStage.unity
+    guid: 605e8bebadd0bc84ba41c556c7ddd54f
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Dummies/Dummy 25 RandomNetChara.unity
+    guid: 4953f511f46822843bddb848099c9adb
+  - enabled: 1
+    path: Assets/Illusion/Game/Scripts/Scene/Tutorial/Tutorial.unity
+    guid: 2cdb1b0086962ac48aa07138716d8d57
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Dummies/Dummy 27 Status.unity
+    guid: 8777964f0aa20a846b99fe1f02e0a865
+  - enabled: 1
+    path: Assets/Illusion/Game/Scripts/Scene/Shortcut/Shortcut.unity
+    guid: 4ed88423513cbd8408731464e20e5333
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Dummies/Dummy 29 RankingEntryScene.unity
+    guid: e7ae017c02491bb489aa32cf811a13da
+  - enabled: 1
+    path: Assets/Illusion/Game/Scene/Dummies/Dummy 30 RankingScene.unity
+    guid: b39ff0968895a4541825eba1da61ef17

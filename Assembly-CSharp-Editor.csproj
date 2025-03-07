@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{14CC17B2-3AA0-F344-03FA-8D292556EFFE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_2;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;UNITY_HAS_GOOGLEVR;ENABLE_DUCK_TYPING</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Editor\AssetRipperPatches\AudioMixerPostprocessor.cs" />
+     <None Include="Assets\Resources\shaders\tmp_sdf overlay.shader" />
+     <None Include="Assets\Shader\StudioNEO_SelectAlpha.shader" />
+     <None Include="Assets\Shader\Shader Forge_create_head.shader" />
+     <None Include="Assets\Shader\Shader Forge_toon_nose_lod0.shader" />
+     <None Include="Assets\Shader\Hidden_BrightPassFilterForBloom.shader" />
+     <None Include="Assets\Resources\shaders\tmp_bitmap.shader" />
+     <None Include="Assets\Resources\copy.shader" />
+     <None Include="Assets\Resources\base.shader" />
+     <None Include="Assets\Resources\bloom.shader" />
+     <None Include="Assets\Shader\Hidden_Dof_DX11Dof.shader" />
+     <None Include="Assets\Shader\Shader Forge_main_item.shader" />
+     <None Include="Assets\Resources\shaders\tmp_sdf-mobile masking.shader" />
+     <None Include="Assets\Resources\shaders\screenspacereflection.shader" />
+     <None Include="Assets\Shader\Hidden_GlobalFog.shader" />
+     <None Include="Assets\Shader\Unlit_MosaicTexture.shader" />
+     <None Include="Assets\Resources\shaders\fxaa.shader" />
+     <None Include="Assets\Shader\Hidden_SunShaftsComposite.shader" />
+     <None Include="Assets\Shader\Hidden_LensFlareCreate.shader" />
+     <None Include="Assets\Resources\shaders\ambientocclusion.shader" />
+     <None Include="Assets\Shader\Hidden_ChromaticAberration.shader" />
+     <None Include="Assets\Resources\shaders\tmp_sdf.shader" />
+     <None Include="Assets\Resources\crossfadecamera.shader" />
+     <None Include="Assets\Resources\depthmaskblend.shader" />
+     <None Include="Assets\Resources\maskblend.shader" />
+     <None Include="Assets\Shader\Shader Forge_spotLaser.shader" />
+     <None Include="Assets\Resources\bluenoise64\LICENSE.txt" />
+     <None Include="Assets\Resources\LineBreaking Leading Characters.txt" />
+     <None Include="Assets\Shader\Custom_StandardDouble.shader" />
+     <None Include="Assets\Shader\UBER - Specular Setup_Refraction_Core.shader" />
+     <None Include="Assets\Resources\blendcache.shader" />
+     <None Include="Assets\Resources\LineBreaking Following Characters.txt" />
+     <None Include="Assets\Resources\occlusion.shader" />
+     <None Include="Assets\Shader\Shader Forge_create_eyewhite.shader" />
+     <None Include="Assets\Resources\shaders\taa.shader" />
+     <None Include="Assets\Resources\shaders\lutgen.shader" />
+     <None Include="Assets\Shader\Hidden_Blend.shader" />
+     <None Include="Assets\Resources\shaders\blit.shader" />
+     <None Include="Assets\Resources\shaders\tmp_sdf-mobile overlay.shader" />
+     <None Include="Assets\Shader\Shader Forge_spotLight_beam.shader" />
+     <None Include="Assets\Shader\Hidden_InterpolateAlongRays.shader" />
+     <None Include="Assets\Shader\Hidden_BlendOneOne.shader" />
+     <None Include="Assets\Shader\Shader Forge_toon_body_lod0.shader" />
+     <None Include="Assets\Shader\UI_ConfigRT.shader" />
+     <None Include="Assets\Resources\shaders\tmp_sdf-mobile.shader" />
+     <None Include="Assets\Resources\shaders\tmp_sdf-surface-mobile.shader" />
+     <None Include="Assets\Shader\Shader Forge_create_eye.shader" />
+     <None Include="Assets\Resources\blur.shader" />
+     <None Include="Assets\Shader\Shader Forge_toon_eyew_lod0.shader" />
+     <None Include="Assets\Shader\Hidden_Vignetting.shader" />
+     <None Include="Assets\Resources\shaders\graingen.shader" />
+     <None Include="Assets\Resources\blend.shader" />
+     <None Include="Assets\Resources\mask.shader" />
+     <None Include="Assets\Shader\Shader Forge_spotLight_glow.shader" />
+     <None Include="Assets\Shader\Hidden_SeparableBlurPlus.shader" />
+     <None Include="Assets\Resources\shaders\tmp_bitmap-mobile.shader" />
+     <None Include="Assets\Resources\depthmask.shader" />
+     <None Include="Assets\Shader\Shader Forge_toon_eye_lod0.shader" />
+     <None Include="Assets\Resources\shaders\tmp_sdf-surface.shader" />
+     <None Include="Assets\Shader\Hidden_SimpleClear.shader" />
+     <None Include="Assets\Shader\Shader Forge_main_skin.shader" />
+     <None Include="Assets\Resources\shaders\tmp_sprite.shader" />
+     <None Include="Assets\Shader\Hidden_DepthBreaks.shader" />
+     <None Include="Assets\Resources\bluenoise64\COPYING.txt" />
+     <None Include="Assets\Resources\uber_copypropstexture.shader" />
+     <None Include="Assets\Shader\Hidden_SeparableBlur.shader" />
+     <None Include="Assets\Shader\Shader Forge_create_hair.shader" />
+     <None Include="Assets\Resources\shaders\motionblur.shader" />
+     <None Include="Assets\Shader\Shader Forge_electricLight.shader" />
+     <None Include="Assets\Plugins\UniRx\ReadMe.txt" />
+     <None Include="Assets\Shader\Shader Forge_create_body.shader" />
+     <None Include="Assets\Shader\Hidden_MultipassHollywoodFlares.shader" />
+     <None Include="Assets\Shader\Shader Forge_main_texture.shader" />
+     <None Include="Assets\Resources\shaders\eyeadaptation.shader" />
+     <None Include="Assets\Shader\Hidden_CrossFadeShader.shader" />
+     <None Include="Assets\Shader\Hidden_Depth.shader" />
+     <None Include="Assets\Shader\Custom_monoTone.shader" />
+     <None Include="Assets\Shader\Hidden_Final Interpolation.shader" />
+     <None Include="Assets\Shader\Hidden_Dof_DepthOfFieldHdr.shader" />
+     <None Include="Assets\Resources\shaders\uber.shader" />
+     <None Include="Assets\Resources\shaders\depthoffield.shader" />
+     <None Include="Assets\Shader\Hidden_Raymarch.shader" />
+     <None Include="Assets\Shader\Hidden_Coord.shader" />
+     <None Include="Assets\Shader\Hidden_BlurEffectConeTap.shader" />
+     <None Include="Assets\Resources\shaders\fog.shader" />
+     <None Include="Assets\Shader\Hidden_Sepiatone Effect.shader" />
+     <None Include="Assets\Resources\shaders\bloom.shader" />
+     <None Include="Assets\Shader\Shader Forge_volumeLight.shader" />
+     <None Include="Assets\Resources\processonly.shader" />
+     <None Include="Assets\Shader\Hidden_ColorFilter.shader" />
+     <None Include="Assets\Resources\shaders\builtindebugviews.shader" />
+     <None Include="Assets\Shader\Easy Masking Transition_Unlit_Transparent Tint.shader" />
+     <None Include="Assets\Shader\Hidden_Sample Positions.shader" />
+ <Reference Include="UnityEditor.Advertisements">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Networking">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.TestRunner">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TestRunner">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.TreeEditor">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Analytics">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.HoloLens">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Purchasing">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/UnityPurchasing/Editor/UnityEditor.Purchasing.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.VR">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VR">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Graphs">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Android.Extensions">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.WindowsStandalone.Extensions">
+ <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.2f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+ </Reference>
+ <Reference Include="AmplifyColor">
+ <HintPath>C:/Users/ACER/Desktop/playhome/koikatsu/ExportedProject/Assets/Plugins/AmplifyColor.dll</HintPath>
+ </Reference>
+ <Reference Include="AmplifyOcclusion">
+ <HintPath>C:/Users/ACER/Desktop/playhome/koikatsu/ExportedProject/Assets/Plugins/AmplifyOcclusion.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween">
+ <HintPath>C:/Users/ACER/Desktop/playhome/koikatsu/ExportedProject/Assets/Plugins/DOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween43">
+ <HintPath>C:/Users/ACER/Desktop/playhome/koikatsu/ExportedProject/Assets/Plugins/DOTween43.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween46">
+ <HintPath>C:/Users/ACER/Desktop/playhome/koikatsu/ExportedProject/Assets/Plugins/DOTween46.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween50">
+ <HintPath>C:/Users/ACER/Desktop/playhome/koikatsu/ExportedProject/Assets/Plugins/DOTween50.dll</HintPath>
+ </Reference>
+ <Reference Include="Sirenix.OdinInspector.Attributes">
+ <HintPath>C:/Users/ACER/Desktop/playhome/koikatsu/ExportedProject/Assets/Plugins/Sirenix.OdinInspector.Attributes.dll</HintPath>
+ </Reference>
+ <Reference Include="Sirenix.Serialization.Config">
+ <HintPath>C:/Users/ACER/Desktop/playhome/koikatsu/ExportedProject/Assets/Plugins/Sirenix.Serialization.Config.dll</HintPath>
+ </Reference>
+ <Reference Include="Sirenix.Serialization">
+ <HintPath>C:/Users/ACER/Desktop/playhome/koikatsu/ExportedProject/Assets/Plugins/Sirenix.Serialization.dll</HintPath>
+ </Reference>
+ <Reference Include="Sirenix.Utilities">
+ <HintPath>C:/Users/ACER/Desktop/playhome/koikatsu/ExportedProject/Assets/Plugins/Sirenix.Utilities.dll</HintPath>
+ </Reference>
+ <Reference Include="TextMeshPro-1.0.55.56.0b12">
+ <HintPath>C:/Users/ACER/Desktop/playhome/koikatsu/ExportedProject/Assets/Plugins/TextMeshPro-1.0.55.56.0b12.dll</HintPath>
+ </Reference>
+ <Reference Include="Vectrosity">
+ <HintPath>C:/Users/ACER/Desktop/playhome/koikatsu/ExportedProject/Assets/Plugins/Vectrosity.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{BC3C38AE-ED04-B288-BA63-7F92E64B03B8}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-CSharp.csproj">
+      <Project>{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

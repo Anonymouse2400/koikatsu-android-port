@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|c:\\users\\acer\\desktop\\playhome\\koikatsu\\exportedproject\\assets\\scripts\\assembly-csharp\\movieplayergui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\movieplayergui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|c:\\users\\acer\\desktop\\playhome\\koikatsu\\exportedproject\\assets\\scripts\\assembly-csharp\\oglshader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\oglshader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\talkscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\talkscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\gamescreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\gamescreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\screenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\screenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\serialcapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\serialcapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\serialcaptureex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\serialcaptureex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\studio\\gamescreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\studio\\gamescreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\statemachinebehaviourmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\statemachinebehaviourmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3C38AE-ED04-B288-BA63-7F92E64B03B8}|Assembly-CSharp-firstpass.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\plugins\\assembly-csharp-firstpass\\rootmotion\\demos\\vrsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3C38AE-ED04-B288-BA63-7F92E64B03B8}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\plugins\\assembly-csharp-firstpass\\rootmotion\\demos\\vrsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3C38AE-ED04-B288-BA63-7F92E64B03B8}|Assembly-CSharp-firstpass.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\plugins\\assembly-csharp-firstpass\\rootmotion\\demos\\vraimingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3C38AE-ED04-B288-BA63-7F92E64B03B8}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\plugins\\assembly-csharp-firstpass\\rootmotion\\demos\\vraimingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\paradoxnotion\\serialization\\fullserializer\\internal\\fsweakreferenceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\paradoxnotion\\serialization\\fullserializer\\internal\\fsweakreferenceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\paradoxnotion\\serialization\\fullserializer\\internal\\fsreflectedconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\paradoxnotion\\serialization\\fullserializer\\internal\\fsreflectedconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\paradoxnotion\\serialization\\fullserializer\\internal\\fskeyvaluepairconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\paradoxnotion\\serialization\\fullserializer\\internal\\fskeyvaluepairconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\paradoxnotion\\serialization\\fullserializer\\internal\\fsforwardconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\paradoxnotion\\serialization\\fullserializer\\internal\\fsforwardconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\paradoxnotion\\serialization\\fullserializer\\internal\\fsienumerableconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\paradoxnotion\\serialization\\fullserializer\\internal\\fsienumerableconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\paradoxnotion\\serialization\\fullserializer\\internal\\fsarrayconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\paradoxnotion\\serialization\\fullserializer\\internal\\fsarrayconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\outputshapecalcscriptex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\outputshapecalcscriptex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\chacustom\\cvsaccessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\chacustom\\cvsaccessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\baseloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\baseloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\assets\\scripts\\assembly-csharp\\actiongame\\chara\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB7E9B2-DAAC-E6A6-6D4C-F52FF86D00FA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\actiongame\\chara\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviePlayerGUI.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\MoviePlayerGUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\MoviePlayerGUI.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\MoviePlayerGUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\MoviePlayerGUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:49:12.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "oglshader.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\oglshader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\oglshader.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\oglshader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\oglshader.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:28:13.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TalkScene.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\TalkScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\TalkScene.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\TalkScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\TalkScene.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAYwA8BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:22:12.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameScreenShot.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\Studio\\GameScreenShot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\Studio\\GameScreenShot.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\Studio\\GameScreenShot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\Studio\\GameScreenShot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:04:48.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SerialCaptureEx.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\SerialCaptureEx.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\SerialCaptureEx.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\SerialCaptureEx.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\SerialCaptureEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:04:39.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SerialCapture.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\SerialCapture.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\SerialCapture.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\SerialCapture.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\SerialCapture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:04:27.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScreenShot.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ScreenShot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\ScreenShot.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ScreenShot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\ScreenShot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:04:18.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameScreenShot.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\GameScreenShot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\GameScreenShot.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\GameScreenShot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\GameScreenShot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:54:01.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StateMachineBehaviourMessage.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\StateMachineBehaviourMessage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\StateMachineBehaviourMessage.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\StateMachineBehaviourMessage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\StateMachineBehaviourMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:53:24.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VRSetup.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Plugins\\Assembly-CSharp-firstpass\\RootMotion\\Demos\\VRSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Assembly-CSharp-firstpass\\RootMotion\\Demos\\VRSetup.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Plugins\\Assembly-CSharp-firstpass\\RootMotion\\Demos\\VRSetup.cs",
+              "RelativeToolTip": "Assets\\Plugins\\Assembly-CSharp-firstpass\\RootMotion\\Demos\\VRSetup.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAEwDgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:52:53.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VRAimingController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Plugins\\Assembly-CSharp-firstpass\\RootMotion\\Demos\\VRAimingController.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Assembly-CSharp-firstpass\\RootMotion\\Demos\\VRAimingController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Plugins\\Assembly-CSharp-firstpass\\RootMotion\\Demos\\VRAimingController.cs",
+              "RelativeToolTip": "Assets\\Plugins\\Assembly-CSharp-firstpass\\RootMotion\\Demos\\VRAimingController.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAAAPYAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:51:12.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TitleScene.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\TitleScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\TitleScene.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\TitleScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\TitleScene.cs",
+              "ViewState": "AgIAAJoBAAAAAAAAAADgv6IBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:32:19.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fsWeakReferenceConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsWeakReferenceConverter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsWeakReferenceConverter.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsWeakReferenceConverter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsWeakReferenceConverter.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAEwCoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:28:18.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "fsReflectedConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsReflectedConverter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsReflectedConverter.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsReflectedConverter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsReflectedConverter.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAEwC8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:28:14.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fsKeyValuePairConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsKeyValuePairConverter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsKeyValuePairConverter.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsKeyValuePairConverter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsKeyValuePairConverter.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAEwBkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:28:08.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "fsIEnumerableConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsIEnumerableConverter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsIEnumerableConverter.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsIEnumerableConverter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsIEnumerableConverter.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAlwDcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:27:39.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fsForwardConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsForwardConverter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsForwardConverter.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsForwardConverter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsForwardConverter.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:27:28.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "fsArrayConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsArrayConverter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsArrayConverter.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsArrayConverter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\ParadoxNotion\\Serialization\\FullSerializer\\Internal\\fsArrayConverter.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAC8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:21:22.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OutputShapeCalcScriptEx.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\OutputShapeCalcScriptEx.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\OutputShapeCalcScriptEx.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\OutputShapeCalcScriptEx.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\OutputShapeCalcScriptEx.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAAANcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:03:52.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CvsAccessory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ChaCustom\\CvsAccessory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\ChaCustom\\CvsAccessory.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ChaCustom\\CvsAccessory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\ChaCustom\\CvsAccessory.cs",
+              "ViewState": "AgIAAI4DAAAAAAAAAAAQwJ0DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:52:14.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseLoader.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\BaseLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\BaseLoader.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\BaseLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\BaseLoader.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAlwC4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:51:59.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ActionGame\\Chara\\Base.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\ActionGame\\Chara\\Base.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\playhome\\koikatsu\\ExportedProject\\Assets\\Scripts\\Assembly-CSharp\\ActionGame\\Chara\\Base.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\ActionGame\\Chara\\Base.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAEwCcBAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:49:53.429Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

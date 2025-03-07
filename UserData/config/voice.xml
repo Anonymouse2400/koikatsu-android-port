@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Voice>
+  <Volume>
+    <PCM>Volume[100] : Switch[True]</PCM>
+    <c00>Volume[100] : Switch[True]</c00>
+    <c01>Volume[100] : Switch[True]</c01>
+    <c02>Volume[100] : Switch[True]</c02>
+    <c03>Volume[100] : Switch[True]</c03>
+    <c04>Volume[100] : Switch[True]</c04>
+    <c05>Volume[100] : Switch[True]</c05>
+    <c06>Volume[100] : Switch[True]</c06>
+    <c07>Volume[100] : Switch[True]</c07>
+    <c08>Volume[100] : Switch[True]</c08>
+    <c09>Volume[100] : Switch[True]</c09>
+    <c10>Volume[100] : Switch[True]</c10>
+    <c11>Volume[100] : Switch[True]</c11>
+    <c12>Volume[100] : Switch[True]</c12>
+    <c13>Volume[100] : Switch[True]</c13>
+    <c14>Volume[100] : Switch[True]</c14>
+    <c15>Volume[100] : Switch[True]</c15>
+    <c16>Volume[100] : Switch[True]</c16>
+    <c17>Volume[100] : Switch[True]</c17>
+    <c18>Volume[100] : Switch[True]</c18>
+    <c19>Volume[100] : Switch[True]</c19>
+    <c20>Volume[100] : Switch[True]</c20>
+    <c21>Volume[100] : Switch[True]</c21>
+    <c22>Volume[100] : Switch[True]</c22>
+    <c23>Volume[100] : Switch[True]</c23>
+    <c24>Volume[100] : Switch[True]</c24>
+    <c25>Volume[100] : Switch[True]</c25>
+    <c26>Volume[100] : Switch[True]</c26>
+    <c27>Volume[100] : Switch[True]</c27>
+    <c28>Volume[100] : Switch[True]</c28>
+    <c29>Volume[100] : Switch[True]</c29>
+  </Volume>
+</Voice>

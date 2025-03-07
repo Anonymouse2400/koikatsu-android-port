@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<System>
+  <Sound>
+    <Master>Volume[100] : Switch[True]</Master>
+    <BGM>Volume[40] : Switch[True]</BGM>
+    <ENV>Volume[80] : Switch[True]</ENV>
+    <SystemSE>Volume[50] : Switch[True]</SystemSE>
+    <GameSE>Volume[70] : Switch[True]</GameSE>
+    <AutoBGM>Volume[40] : Switch[True]</AutoBGM>
+  </Sound>
+  <Text>
+    <FontSpeed>40</FontSpeed>
+    <ReadSkip>True</ReadSkip>
+    <NextVoiceStop>True</NextVoiceStop>
+    <AutoWaitTime>3</AutoWaitTime>
+    <ChoicesSkip>False</ChoicesSkip>
+    <ChoicesAuto>False</ChoicesAuto>
+    <WindowColor>1,1,1,0.5</WindowColor>
+    <Font0Color>0.8,1,1,1</Font0Color>
+    <Font1Color>1,0.8,1,1</Font1Color>
+    <Font2Color>1,1,1,1</Font2Color>
+  </Text>
+  <Act>
+    <MoveLook>False</MoveLook>
+    <MaxCharaNum>38</MaxCharaNum>
+    <TPSOffsetY>0</TPSOffsetY>
+    <TPSSensitivityX>50</TPSSensitivityX>
+    <TPSSensitivityY>50</TPSSensitivityY>
+    <TPSSmoothMoveTime>30</TPSSmoothMoveTime>
+    <FPSSensitivityX>50</FPSSensitivityX>
+    <FPSSensitivityY>50</FPSSensitivityY>
+    <FPSSmoothMoveTime>20</FPSSmoothMoveTime>
+    <InvertMoveX>False</InvertMoveX>
+    <InvertMoveY>False</InvertMoveY>
+    <CrouchCtrlKey>False</CrouchCtrlKey>
+    <ToiletTPS>True</ToiletTPS>
+  </Act>
+  <Etc>
+    <Look>True</Look>
+    <SelfShadow>True</SelfShadow>
+    <DepthOfField>True</DepthOfField>
+    <Map>True</Map>
+    <rampId>1</rampId>
+    <shadowDepth>0.26</shadowDepth>
+    <lineDepth>1</lineDepth>
+    <lineWidth>0.307</lineWidth>
+    <ForegroundEyebrow>False</ForegroundEyebrow>
+    <ForegroundEyes>False</ForegroundEyes>
+    <SimpleBody>False</SimpleBody>
+    <VisibleSon>True</VisibleSon>
+    <VisibleBody>True</VisibleBody>
+    <hohoAka>False</hohoAka>
+    <loadHeadAccessory>True</loadHeadAccessory>
+    <loadAllAccessory>False</loadAllAccessory>
+    <SilhouetteColor>0,0,1,1</SilhouetteColor>
+    <SemenType>1</SemenType>
+    <IsMaleClothes>True</IsMaleClothes>
+    <IsMaleAccessoriesMain>True</IsMaleAccessoriesMain>
+    <IsMaleAccessoriesSub>True</IsMaleAccessoriesSub>
+    <IsMaleShoes>True</IsMaleShoes>
+    <FemaleEyesCamera>False</FemaleEyesCamera>
+    <FemaleNeckCamera>False</FemaleNeckCamera>
+    <FemaleEyesCamera1>False</FemaleEyesCamera1>
+    <FemaleNeckCamera1>False</FemaleNeckCamera1>
+    <HInitCamera>True</HInitCamera>
+    <Shield>True</Shield>
+    <BackColor>0,0,0,1</BackColor>
+    <nipMax>0.4</nipMax>
+    <Fog>True</Fog>
+    <Bloom>True</Bloom>
+    <Vignette>True</Vignette>
+    <AmplifyOcclus>True</AmplifyOcclus>
+    <SunShafts>True</SunShafts>
+  </Etc>
+  <Add>
+    <expH>isON[False] : property[1]</expH>
+    <firstHEasy>False</firstHEasy>
+    <immediatelyFinish>True</immediatelyFinish>
+    <ADVEventNotOmission>False</ADVEventNotOmission>
+    <TalkTimeNoneWalkStop>True</TalkTimeNoneWalkStop>
+    <AINotPlayerTarget>False</AINotPlayerTarget>
+    <AINotPlayerTargetCommunication>False</AINotPlayerTargetCommunication>
+    <mobVisible>True</mobVisible>
+    <mobColor>0,0,1,0.5</mobColor>
+    <OtherClassRegisterMax>False</OtherClassRegisterMax>
+    <DateMapSelectNoneEvent>False</DateMapSelectNoneEvent>
+    <AIActionCorrectionH>100</AIActionCorrectionH>
+    <AIActionCorrectionTalk>100</AIActionCorrectionTalk>
+    <CommunicationCorrectionHeroineAction>100</CommunicationCorrectionHeroineAction>
+  </Add>
+  <Debug>
+    <FPS>False</FPS>
+  </Debug>
+</System>
